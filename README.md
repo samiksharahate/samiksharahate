@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am samiksha rahate QA engineer II with 4+ years of exp ,<br>Manual Testing -> Functional testing , Smoke, Regression, Re-testing, Sanity, <br>Automation -> TestNg, BDD Cucumber, Maven, POM, Data driven , Keyword driven, hybrid<br>Tools-> Click-up, Jira, SonarQube, Burp suit, Eclipse, VS code<br>Other -> Mobile testing , cross browser testing , compatibility testing<br><br><br>
+I am Samiksha Rahate QA engineer II with 4+ years of exp ,<br>Manual Testing -> Functional testing , Smoke, Regression, Re-testing, Sanity, <br>Automation -> TestNg, BDD Cucumber, Maven, POM, Data driven , Keyword driven, hybrid<br>Tools-> Click-up, Jira, SonarQube, Burp suit, Eclipse, VS code<br>Other -> Mobile testing , cross browser testing , compatibility testing<br><br><br>
 
 
 ## 🌐 Socials:
